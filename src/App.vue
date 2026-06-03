@@ -13,6 +13,7 @@ import { RouterView, RouterLink } from 'vue-router'
         <RouterLink class="navbar-item" to="/">Red</RouterLink>
         <RouterLink class="navbar-item" to="/blue">Blue</RouterLink>
         <RouterLink class="navbar-item" to="/green">Green</RouterLink>
+        <RouterLink class="navbar-item" to="/pink">Pink</RouterLink>
       </div>
     </div>
   </nav>
